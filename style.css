@@ -1,0 +1,33 @@
+#white {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    width: 50%;
+    position: relative;
+    height: 93vh;
+    background-color: white;
+    color: white;
+    align-items: center;
+}
+
+#black {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    width: 50%;
+    position: relative;
+    height: 93vh;
+    background-color: white;
+    border: 3px solid white;
+    color: white;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    border: 20px solid burlywood;
+}
